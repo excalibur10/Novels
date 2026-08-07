@@ -11,12 +11,11 @@ DANH SÁCH 12 NGÔI MỘ TIÊN TRI
 | Dư Tĩnh Hoa | 1989 | 24/12/2010 |
 | Vĩnh Trí | 1990 | 31/01/2011 |
 | Hồng Lực | 1994 | 25/02/2011 |
-
-Nguyên Hạo.    1989.                    18/05/2011
-Kinh Đắc.           1989.                    18/05/2011
-Bạch Liên.         1994.                    18/05/2011
-Lý Tiểu Long.   1992.                    16/06/2011
-Âu Dương Phỉ   1993.                    16/06/2011
+| Nguyên Hạo | 1989 | 18/05/2011 |
+| Kinh Đắc | 1989 | 18/05/2011 |
+| Bạch Liên | 1994 | 18/05/2011 |
+| Lý Tiểu Long | 1992 | 16/06/2011 |
+| Âu Dương Phỉ | 1993 | 16/06/2011 |
 
 Tôi không phải kẻ có trí nhớ siêu phàm, nếu không đã chẳng phải chật vật đứng ngoài cánh cửa "Lớp Tú tài" của Dương Song Song. Đêm đó, tôi đã nhanh tay lưu lại những cái tên và ngày tháng này vào danh bạ điện thoại, và giờ, tôi nắn nót chép lại chúng ra giấy.
 
