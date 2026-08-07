@@ -4,18 +4,18 @@ DANH SÁCH 12 NGÔI MỘ TIÊN TRI
 
 | Stt | Tên người | Năm sinh | Ngày mất dự kiến |
 |  -------- | -------- | -------- | -------- |
-| 2 | Lục Sắc | 1993 | 13/07/2010  |
-| 3 | Cố Chí Hào | 1991 | 21/08/2010 |
-| 4 | Thư Đào | 1992 | 28/09/2010 |
-| 5 | Lục Hổ | 1993 | 14/11/2010 |
-| 6 | Dư Tĩnh Hoa | 1989 | 24/12/2010 |
-| 7 | Vĩnh Trí | 1990 | 31/01/2011 |
-| 8 | Hồng Lực | 1994 | 25/02/2011 |
-| 9 | Nguyên Hạo | 1989 | 18/05/2011 |
-| 10 | Kinh Đắc | 1989 | 18/05/2011 |
-| 11 | Bạch Liên | 1994 | 18/05/2011 |
-| 12 | Lý Tiểu Long | 1992 | 16/06/2011 |
-| 14 | Âu Dương Phỉ | 1993 | 16/06/2011 |
+| 1 | Lục Sắc | 1993 | 13/07/2010  |
+| 2 | Cố Chí Hào | 1991 | 21/08/2010 |
+| 3 | Thư Đào | 1992 | 28/09/2010 |
+| 4 | Lục Hổ | 1993 | 14/11/2010 |
+| 5 | Dư Tĩnh Hoa | 1989 | 24/12/2010 |
+| 6 | Vĩnh Trí | 1990 | 31/01/2011 |
+| 7 | Hồng Lực | 1994 | 25/02/2011 |
+| 8 | Nguyên Hạo | 1989 | 18/05/2011 |
+| 9 | Kinh Đắc | 1989 | 18/05/2011 |
+| 10 | Bạch Liên | 1994 | 18/05/2011 |
+| 11 | Lý Tiểu Long | 1992 | 16/06/2011 |
+| 12 | Âu Dương Phỉ | 1993 | 16/06/2011 |
 
 Tôi không phải kẻ có trí nhớ siêu phàm, nếu không đã chẳng phải chật vật đứng ngoài cánh cửa "Lớp Tú tài" của Dương Song Song. Đêm đó, tôi đã nhanh tay lưu lại những cái tên và ngày tháng này vào danh bạ điện thoại, và giờ, tôi nắn nót chép lại chúng ra giấy.
 
