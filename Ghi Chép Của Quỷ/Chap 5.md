@@ -2,7 +2,7 @@ Dưới đây là mười hai nội dung trên mộ bia mà Âu Dương Phỉ đ
 
 DANH SÁCH 12 NGÔI MỘ TIÊN TRI
 
-Tên người.          Năm sinh.          Ngày mất dự kiến
+Tên người. \t Năm sinh.          Ngày mất dự kiến
 Lục Sắc             1993                       13/07/2010
 Cố Chí Hào.     1991                       21/08/2010
 Thư Đào.           1992.                     28/09/2010
